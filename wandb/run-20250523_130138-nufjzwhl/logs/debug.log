@@ -102,3 +102,532 @@ config: {'_wandb': {}}
 2025-05-23 15:07:36,410 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
 2025-05-23 15:07:37,013 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
 2025-05-23 15:07:37,013 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:20,441 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:20,444 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:20,444 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:26,228 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:26,230 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:26,230 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:41,656 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:41,659 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:41,659 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:42,070 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:42,072 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:42,072 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:42,269 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:42,272 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:42,273 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:45,583 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:45,585 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:45,585 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:47,904 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:47,907 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:47,908 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:54,500 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:54,504 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:54,504 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:12:55,066 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:12:55,068 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:12:55,069 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:03,233 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:03,236 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:03,237 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:04,046 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:04,049 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:04,049 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:06,071 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:06,074 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:06,074 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:07,673 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:07,676 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:07,676 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:11,786 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:11,789 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:11,789 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:12,677 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:12,680 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:12,681 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:13,083 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:13,086 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:13,086 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:15,549 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:15,553 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:15,553 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:18,464 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:18,467 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:18,467 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:27,131 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:27,133 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:27,133 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:30,730 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:30,732 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:30,733 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:31,559 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:31,562 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:31,562 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:33,322 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:33,325 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:33,325 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:39,640 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:39,642 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:39,643 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:43,536 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:43,539 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:43,539 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:44,460 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:44,464 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:44,464 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:48,230 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:48,233 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:48,233 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:51,791 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:51,794 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:51,795 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:52,816 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:13:52,819 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:13:52,820 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:13:56,565 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:14:10,546 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:14:10,546 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:15:38,043 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:15:38,046 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:15:38,046 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:15:41,064 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:15:41,067 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:15:41,067 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:15:42,595 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:15:42,598 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:15:42,598 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:15:47,486 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:15:47,489 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:15:47,489 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:16:14,031 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:16:14,035 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:16:14,035 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:16:19,240 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:16:33,202 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:16:33,202 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:11,884 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:11,887 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:11,888 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:16,132 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:16,135 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:16,135 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:17,131 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:17,134 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:17,134 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:19,337 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:19,339 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:19,339 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:20,592 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:20,595 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:20,595 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:20,637 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:20,639 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:20,640 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:21,405 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:21,407 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:21,408 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:27,407 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:27,410 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:27,411 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:29,015 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:29,019 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:29,019 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:36,151 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:36,155 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:36,155 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:36,711 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:36,714 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:36,714 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:37,604 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:37,607 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:37,607 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:40,693 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:40,696 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:40,696 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:43,593 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:43,596 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:43,596 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:46,065 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:46,067 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:46,068 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:46,596 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:46,599 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:46,599 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:48,916 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:48,919 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:48,919 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:49,697 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:49,700 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:49,701 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:49,850 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:49,853 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:49,853 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:51,250 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:51,253 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:51,253 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:53,324 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:53,327 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:53,327 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:53,595 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:53,599 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:53,600 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:53,675 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:53,679 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:53,679 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:17:59,732 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:17:59,735 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:17:59,735 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:00,090 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:00,093 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:00,093 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:00,144 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:00,147 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:00,147 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:00,480 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:00,483 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:00,483 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:00,562 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:00,564 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:00,565 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:02,872 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:02,875 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:02,876 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:02,889 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:02,891 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:02,891 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:11,808 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:11,812 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:11,812 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:12,300 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:12,303 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:12,303 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:12,648 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:12,651 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:12,653 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:12,687 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:12,690 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:12,690 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:13,190 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:13,193 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:13,193 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:18:16,615 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:18:30,567 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:18:30,567 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:29:24,035 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:29:24,038 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:29:24,038 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:41:44,076 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:41:44,077 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:41:44,077 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:41:47,168 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:41:47,171 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:41:47,172 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:41:50,402 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:41:50,719 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:41:50,719 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:41:55,794 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:00,772 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:00,772 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:05,563 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:05,565 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:05,565 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:07,767 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:08,335 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:08,335 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:10,626 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:10,628 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:10,629 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:12,667 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:12,680 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:12,680 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:14,858 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:15,049 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:15,050 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:17,849 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:17,901 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:17,901 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:24,973 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:25,039 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:25,039 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:41,276 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:41,833 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:41,833 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:45,696 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:45,699 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:45,699 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:47,877 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:48,424 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:48,424 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:50,078 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:50,360 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:50,360 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:53,899 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:53,938 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:53,938 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:56,447 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:56,799 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:56,799 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:42:58,741 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:42:58,746 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:42:58,746 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:01,661 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:02,473 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:02,474 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:04,735 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:04,737 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:04,737 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:07,435 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:17,935 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:17,935 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:20,958 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:21,329 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:21,329 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:23,433 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:23,436 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:23,436 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:44,445 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:44,448 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:44,449 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:46,597 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:46,600 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:46,601 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:47,145 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:47,148 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:47,148 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:49,254 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:49,254 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:49,255 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:43:56,766 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:43:57,117 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:43:57,117 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:44:19,918 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:44:21,373 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:44:21,374 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:44:23,268 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:44:23,271 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:44:23,271 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:44:40,161 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:44:40,275 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:44:40,275 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:44:42,875 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:44:43,284 INFO    MainThread:93063 [wandb_run.py:_config_callback():1261] config_cb None None {'return_dict': True, 'output_hidden_states': False, 'output_attentions': False, 'torchscript': False, 'torch_dtype': 'float32', 'use_bfloat16': False, 'tf_legacy_loss': False, 'pruned_heads': {}, 'tie_word_embeddings': True, 'chunk_size_feed_forward': 0, 'is_encoder_decoder': False, 'is_decoder': False, 'cross_attention_hidden_size': None, 'add_cross_attention': False, 'tie_encoder_decoder': False, 'max_length': 20, 'min_length': 0, 'do_sample': False, 'early_stopping': False, 'num_beams': 1, 'num_beam_groups': 1, 'diversity_penalty': 0.0, 'temperature': 1.0, 'top_k': 50, 'top_p': 1.0, 'typical_p': 1.0, 'repetition_penalty': 1.0, 'length_penalty': 1.0, 'no_repeat_ngram_size': 0, 'encoder_no_repeat_ngram_size': 0, 'bad_words_ids': None, 'num_return_sequences': 1, 'output_scores': False, 'return_dict_in_generate': False, 'forced_bos_token_id': None, 'forced_eos_token_id': None, 'remove_invalid_values': False, 'exponential_decay_length_penalty': None, 'suppress_tokens': None, 'begin_suppress_tokens': None, 'architectures': ['BertForMaskedLM'], 'finetuning_task': None, 'id2label': {0: 'Society & Culture', 1: 'Science & Mathematics', 2: 'Health', 3: 'Education & Reference', 4: 'Computers & Internet', 5: 'Sports', 6: 'Business & Finance', 7: 'Entertainment & Music', 8: 'Family & Relationships', 9: 'Politics & Government'}, 'label2id': {'Society & Culture': 0, 'Science & Mathematics': 1, 'Health': 2, 'Education & Reference': 3, 'Computers & Internet': 4, 'Sports': 5, 'Business & Finance': 6, 'Entertainment & Music': 7, 'Family & Relationships': 8, 'Politics & Government': 9}, 'tokenizer_class': None, 'prefix': None, 'bos_token_id': None, 'pad_token_id': 0, 'eos_token_id': None, 'sep_token_id': None, 'decoder_start_token_id': None, 'task_specific_params': None, 'problem_type': None, '_name_or_path': 'google-bert/bert-base-uncased', 'transformers_version': '4.52.1', 'gradient_checkpointing': False, 'model_type': 'bert', 'vocab_size': 30522, 'hidden_size': 768, 'num_hidden_layers': 12, 'num_attention_heads': 12, 'hidden_act': 'gelu', 'intermediate_size': 3072, 'hidden_dropout_prob': 0.1, 'attention_probs_dropout_prob': 0.1, 'max_position_embeddings': 512, 'type_vocab_size': 2, 'initializer_range': 0.02, 'layer_norm_eps': 1e-12, 'position_embedding_type': 'absolute', 'use_cache': True, 'classifier_dropout': None, 'output_dir': './results', 'overwrite_output_dir': False, 'do_train': False, 'do_eval': True, 'do_predict': False, 'eval_strategy': 'epoch', 'prediction_loss_only': False, 'per_device_train_batch_size': 32, 'per_device_eval_batch_size': 32, 'per_gpu_train_batch_size': None, 'per_gpu_eval_batch_size': None, 'gradient_accumulation_steps': 1, 'eval_accumulation_steps': None, 'eval_delay': 0, 'torch_empty_cache_steps': None, 'learning_rate': 1e-05, 'weight_decay': 0.01, 'adam_beta1': 0.9, 'adam_beta2': 0.999, 'adam_epsilon': 1e-08, 'max_grad_norm': 1.0, 'num_train_epochs': 5, 'max_steps': -1, 'lr_scheduler_type': 'linear', 'lr_scheduler_kwargs': {}, 'warmup_ratio': 0.0, 'warmup_steps': 0, 'log_level': 'passive', 'log_level_replica': 'warning', 'log_on_each_node': True, 'logging_dir': './logs', 'logging_strategy': 'epoch', 'logging_first_step': False, 'logging_steps': 500, 'logging_nan_inf_filter': True, 'save_strategy': 'epoch', 'save_steps': 500, 'save_total_limit': 2, 'save_safetensors': True, 'save_on_each_node': False, 'save_only_model': False, 'restore_callback_states_from_checkpoint': False, 'no_cuda': False, 'use_cpu': False, 'use_mps_device': False, 'seed': 42, 'data_seed': None, 'jit_mode_eval': False, 'use_ipex': False, 'bf16': False, 'fp16': True, 'fp16_opt_level': 'O1', 'half_precision_backend': 'auto', 'bf16_full_eval': False, 'fp16_full_eval': False, 'tf32': None, 'local_rank': 0, 'ddp_backend': None, 'tpu_num_cores': None, 'tpu_metrics_debug': False, 'debug': [], 'dataloader_drop_last': False, 'eval_steps': None, 'dataloader_num_workers': 0, 'dataloader_prefetch_factor': None, 'past_index': -1, 'run_name': './results', 'disable_tqdm': False, 'remove_unused_columns': True, 'label_names': None, 'load_best_model_at_end': True, 'metric_for_best_model': 'accuracy', 'greater_is_better': True, 'ignore_data_skip': False, 'fsdp': [], 'fsdp_min_num_params': 0, 'fsdp_config': {'min_num_params': 0, 'xla': False, 'xla_fsdp_v2': False, 'xla_fsdp_grad_ckpt': False}, 'fsdp_transformer_layer_cls_to_wrap': None, 'accelerator_config': {'split_batches': False, 'dispatch_batches': None, 'even_batches': True, 'use_seedable_sampler': True, 'non_blocking': False, 'gradient_accumulation_kwargs': None}, 'deepspeed': None, 'label_smoothing_factor': 0.0, 'optim': 'adamw_torch', 'optim_args': None, 'adafactor': False, 'group_by_length': False, 'length_column_name': 'length', 'report_to': ['wandb'], 'ddp_find_unused_parameters': None, 'ddp_bucket_cap_mb': None, 'ddp_broadcast_buffers': None, 'dataloader_pin_memory': True, 'dataloader_persistent_workers': False, 'skip_memory_metrics': True, 'use_legacy_prediction_loop': False, 'push_to_hub': False, 'resume_from_checkpoint': None, 'hub_model_id': None, 'hub_strategy': 'every_save', 'hub_token': '<HUB_TOKEN>', 'hub_private_repo': None, 'hub_always_push': False, 'gradient_checkpointing_kwargs': None, 'include_inputs_for_metrics': False, 'include_for_metrics': [], 'eval_do_concat_batches': True, 'fp16_backend': 'auto', 'push_to_hub_model_id': None, 'push_to_hub_organization': None, 'push_to_hub_token': '<PUSH_TO_HUB_TOKEN>', 'mp_parameters': '', 'auto_find_batch_size': False, 'full_determinism': False, 'torchdynamo': None, 'ray_scope': 'last', 'ddp_timeout': 1800, 'torch_compile': False, 'torch_compile_backend': None, 'torch_compile_mode': None, 'include_tokens_per_second': False, 'include_num_input_tokens_seen': False, 'neftune_noise_alpha': None, 'optim_target_modules': None, 'batch_eval_metrics': False, 'eval_on_start': False, 'use_liger_kernel': False, 'eval_use_gather_object': False, 'average_tokens_across_devices': False}
+2025-05-23 15:44:43,285 INFO    MainThread:93063 [wandb_config.py:__setitem__():154] config set model/num_parameters = 109489930 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x708d882b85b0>>
+2025-05-23 15:44:43,286 INFO    MainThread:93063 [wandb_run.py:_config_callback():1261] config_cb model/num_parameters 109489930 None
+2025-05-23 15:59:09,363 WARNING MsgRouterThr:93063 [router.py:message_loop():63] message_loop has been closed
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/router_sock.py", line 27, in _read_message
+    return self._sock_client.read_server_response(timeout=1)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 235, in read_server_response
+    data = self._read_packet_bytes(timeout=timeout)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 220, in _read_packet_bytes
+    raise SockClientClosedError
+wandb.sdk.lib.sock_client.SockClientClosedError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/router.py", line 56, in message_loop
+    msg = self._read_message()
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/router_sock.py", line 29, in _read_message
+    raise MessageRouterClosedError from e
+wandb.sdk.interface.router.MessageRouterClosedError
+2025-05-23 15:59:09,364 INFO    MsgRouterThr:93063 [mailbox.py:close():129] Closing mailbox, abandoning 2 handles.
+2025-05-23 15:59:09,819 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:59:09,820 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:59:16,244 INFO    MainThread:93063 [wandb_init.py:_resume_backend():569] resuming backend
+2025-05-23 15:59:16,245 ERROR   MainThread:93063 [redirect.py:_on_write():661] error in stdout callback
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/IPython/core/events.py", line 82, in trigger
+    func(*args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 570, in _resume_backend
+    self.backend.interface.publish_resume()
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 777, in publish_resume
+    self._publish_resume(resume)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 293, in _publish_resume
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/redirect.py", line 659, in _on_write
+    cb(written_data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2296, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 401, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 1444, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 761, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-05-23 15:59:16,248 ERROR   MainThread:93063 [redirect.py:_on_write():661] error in stdout callback
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/IPython/core/events.py", line 82, in trigger
+    func(*args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 570, in _resume_backend
+    self.backend.interface.publish_resume()
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 777, in publish_resume
+    self._publish_resume(resume)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 293, in _publish_resume
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/redirect.py", line 659, in _on_write
+    cb(written_data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2296, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 401, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 1444, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 761, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-05-23 15:59:16,487 INFO    MainThread:93063 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-23 15:59:16,488 INFO    MainThread:93063 [wandb_init.py:_pause_backend():564] pausing backend
+2025-05-23 15:59:16,488 ERROR   MainThread:93063 [redirect.py:_on_write():661] error in stdout callback
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/IPython/core/events.py", line 82, in trigger
+    func(*args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 565, in _pause_backend
+    self.backend.interface.publish_pause()
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 769, in publish_pause
+    self._publish_pause(pause)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 289, in _publish_pause
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/redirect.py", line 659, in _on_write
+    cb(written_data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2296, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 401, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 1444, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 761, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2025-05-23 15:59:16,489 ERROR   MainThread:93063 [redirect.py:_on_write():661] error in stdout callback
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/IPython/core/events.py", line 82, in trigger
+    func(*args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 565, in _pause_backend
+    self.backend.interface.publish_pause()
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 769, in publish_pause
+    self._publish_pause(pause)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 289, in _publish_pause
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/redirect.py", line 659, in _on_write
+    cb(written_data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2296, in <lambda>
+    lambda data: self._console_raw_callback("stdout", data),
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 401, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 1444, in _console_raw_callback
+    self._backend.interface.publish_output_raw(name, data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface.py", line 761, in publish_output_raw
+    self._publish_output_raw(o)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 38, in _publish_output_raw
+    self._publish(rec)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 39, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 174, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/kraskoa/Templates/25L/LLM/.venv/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe

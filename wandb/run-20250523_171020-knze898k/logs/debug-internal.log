@@ -1,0 +1,7 @@
+{"time":"2025-05-23T17:10:20.448674988+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/kraskoa/Templates/25L/LLM/llm_25l_projekt/wandb/run-20250523_171020-knze898k/logs/debug-core.log"}
+{"time":"2025-05-23T17:10:20.553435072+02:00","level":"INFO","msg":"created new stream","id":"knze898k"}
+{"time":"2025-05-23T17:10:20.553477815+02:00","level":"INFO","msg":"stream: started","id":"knze898k"}
+{"time":"2025-05-23T17:10:20.553530057+02:00","level":"INFO","msg":"sender: started","stream_id":"knze898k"}
+{"time":"2025-05-23T17:10:20.553582298+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"knze898k"}
+{"time":"2025-05-23T17:10:20.553597733+02:00","level":"INFO","msg":"handler: started","stream_id":"knze898k"}
+{"time":"2025-05-23T17:10:20.921242903+02:00","level":"INFO","msg":"Starting system monitor"}
