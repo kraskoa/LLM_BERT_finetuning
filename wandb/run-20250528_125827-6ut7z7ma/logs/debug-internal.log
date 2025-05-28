@@ -1,0 +1,22 @@
+{"time":"2025-05-28T12:58:27.420431756+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/kraskoa/Templates/25L/LLM/llm_25l_projekt/wandb/run-20250528_125827-6ut7z7ma/logs/debug-core.log"}
+{"time":"2025-05-28T12:58:27.524148457+02:00","level":"INFO","msg":"created new stream","id":"6ut7z7ma"}
+{"time":"2025-05-28T12:58:27.524184083+02:00","level":"INFO","msg":"stream: started","id":"6ut7z7ma"}
+{"time":"2025-05-28T12:58:27.524206646+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"6ut7z7ma"}
+{"time":"2025-05-28T12:58:27.524288586+02:00","level":"INFO","msg":"sender: started","stream_id":"6ut7z7ma"}
+{"time":"2025-05-28T12:58:27.524315899+02:00","level":"INFO","msg":"handler: started","stream_id":"6ut7z7ma"}
+{"time":"2025-05-28T12:58:28.225837863+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-28T13:09:52.64527616+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kraskoa-politechnika-warszawska/huggingface/6ut7z7ma/file_stream\": dial tcp 35.186.228.49:443: connect: no route to host"}
+{"time":"2025-05-28T13:09:54.813917125+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kraskoa-politechnika-warszawska/huggingface/6ut7z7ma/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-05-28T13:09:59.000042874+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kraskoa-politechnika-warszawska/huggingface/6ut7z7ma/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-05-28T13:10:08.458549412+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kraskoa-politechnika-warszawska/huggingface/6ut7z7ma/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-05-28T13:10:28.334818455+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-05-28T13:10:35.270249318+02:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: error making HTTP request: api: failed sending: POST https://api.wandb.ai/files/kraskoa-politechnika-warszawska/huggingface/6ut7z7ma/file_stream giving up after 5 attempt(s): Post \"https://api.wandb.ai/files/kraskoa-politechnika-warszawska/huggingface/6ut7z7ma/file_stream\": tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match api.wandb.ai. got response: <nil>"}
+{"time":"2025-05-28T13:11:00.774360273+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-05-28T13:11:29.028258285+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.20.38:37468->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-28T14:15:54.676034699+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-28T14:16:06.535482969+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-28T14:16:47.674291679+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-28T14:17:04.81781489+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-28T14:17:05.382816545+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-28T14:17:08.494874987+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-28T14:17:50.624518764+02:00","level":"INFO","msg":"Pausing system monitor"}
