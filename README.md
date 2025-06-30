@@ -1,3 +1,3 @@
 # LLM_25L_projekt
 
-W ramach projektu planuję zrealizować zadanie klasyfikacji wieloklasowej polegające na przypisaniu kategorii pytania do jego treści z wykorzystaniem zestawu danych z biblioteki HuggingFace yahoo_answers_topics, a dokładniej kolumn question_title i question_content (lub ewentualnie w przypadku niewystarczających zasobów obliczeniowych tylko question_content). Zadanie wstępnie planuję realizować na własnym GPU.
+This repository contains a project I've done for a university course about LLMs. The main objective was to compare the quality of multiclass classification between a fine-tuned LLM and a "classical" classifier model from the scikit-learn library. All of the code is conveniently written in Jupyter notebooks.
